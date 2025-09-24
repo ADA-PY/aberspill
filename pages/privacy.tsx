@@ -1,0 +1,1 @@
+export default function Privacy(){return (<main className="mx-auto max-w-xl p-6"><h1 className="text-xl font-bold mb-4">Privacy</h1><p>Coming soon.</p></main>);}

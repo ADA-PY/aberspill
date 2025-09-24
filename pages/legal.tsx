@@ -1,0 +1,1 @@
+export default function Legal(){return (<main className="mx-auto max-w-xl p-6"><h1 className="text-xl font-bold mb-4">Terms</h1><p>Coming soon.</p></main>);}
